@@ -1,0 +1,17 @@
+{
+	"ulid": "01J83QV8MFRACBFDM4D0A3R166",
+	"minTime": 1726690187577,
+	"maxTime": 1726696800000,
+	"stats": {
+		"numSamples": 2685765,
+		"numSeries": 3469,
+		"numChunks": 23153
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01J83QV8MFRACBFDM4D0A3R166"
+		]
+	},
+	"version": 1
+}
